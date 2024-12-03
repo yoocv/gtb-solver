@@ -1854,6 +1854,7 @@ public class GTBWordList {
             "Wishing well",
             "Witch",
             "Witch House",
+            "Witch Hut",
             "Wither",
             "Wizard",
             "Wizard Hat",
